@@ -1,0 +1,2 @@
+# shell scripts must stay LF: they ship to Linux devices via embedded base64
+*.sh text eol=lf
