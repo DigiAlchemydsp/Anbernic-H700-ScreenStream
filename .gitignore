@@ -2,6 +2,3 @@
 FatmaVision.exe
 *.log
 Captures/
-
-# internal handoff notes (never commit)
-HANDOFF.md
